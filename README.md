@@ -6,16 +6,16 @@ Este relatório apresenta uma auditoria da estratégia de testes de software do 
 ---
 ## Informações Gerais
 - Projeto analisado: [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
-- Vídeo da apresentação: [clique aqui]
+- Vídeo da apresentação: [clique aqui](https://drive.google.com/file/d/1YToKzlgkrQhGTM_XbxFs9cjWPqq-fj9L/view?usp=drivesdk)
 
 ---
 ## Integrantes da Equipe
-- Ariel Santos Souza – 
-- Emilly Kathellen de Jesus Oliveira – 
-- Giovani Barros Luna Gomes – 
-- Karol Sthefanny da Cruz Menezes – 
-- Nycolly Souza Sena – 
-- Sara Cristina Santos Chagas – 
+- Ariel Santos Souza – Estratégia Atual dos Testes
+- Emilly Kathellen de Jesus Oliveira – Lacunas, Riscos e Falhas Potenciais
+- Giovani Barros Luna Gomes – Lacunas, Riscos e Falhas Potenciais
+- Karol Sthefanny da Cruz Menezes – Qualidade Técnica dos Testes
+- Nycolly Souza Sena – Estratégia Atual dos Testes
+- Sara Cristina Santos Chagas – Qualidade Técnica dos Testes
 
 Orientador: Glauco de Figueiredo Carneiro  
 
@@ -35,7 +35,7 @@ A análise foi realizada com base em:
 - [Qualidade Técnica dos Testes](/docs/qualidade_tecnica.md)
 - [Lacunas, Riscos e Falhas Potenciais](/docs/lacunas.md)
 
-- Para a auditoria completa: [clique aqui]
+- Para a auditoria completa: [clique aqui](/docs/A3_AnythingLLM_KarolSthefanny.pdf)
 
 ---
 
